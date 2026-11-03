@@ -1,0 +1,7 @@
+{
+  "recipes": {
+    "plate": {"yield": 3, "inputs": {"ore": 2}},
+    "crystal": {"yield": 2, "inputs": {"shard": 3}},
+    "lantern": {"yield": 1, "inputs": {"plate": 2, "crystal": 1}}
+  }
+}
